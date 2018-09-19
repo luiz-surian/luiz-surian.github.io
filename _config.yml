@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
-title: Luiz Surian
+name: Luiz Surian Blog
 description: Personal Web site
+author: Luiz Fernando Surian Filho
+author_email: lfsurianfilho@gmail.com
+theme: jekyll-theme-hacker
